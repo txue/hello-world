@@ -1,0 +1,3 @@
+This is fourth file added from localhost.
+It was about to rain this morning.
+Now it is sun shining.
